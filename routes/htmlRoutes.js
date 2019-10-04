@@ -1,4 +1,4 @@
-app.get("/api/friends/:friends", function(req, res) {
+/* app.get("/api/friends/:friends", function(req, res) {
     var chosen = req.params.friends;
   
     console.log(chosen);
@@ -25,4 +25,4 @@ app.get("/api/friends/:friends", function(req, res) {
       }
     }
   
-  });
+  }); */

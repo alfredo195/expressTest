@@ -1,4 +1,4 @@
-app.get("/", function(req, res) {
+/* app.get("/", function(req, res) {
     res.send("welcome");
   });
 
@@ -17,4 +17,4 @@ app.get("/api/friends", function(req, res) {
   // display l=all ppl in database on html
  /*  app.get("/api/all/users", function(req, res) {
     return res.json(users);
-  }); */
+  }); */ 

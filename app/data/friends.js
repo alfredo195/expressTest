@@ -2,7 +2,7 @@
 var friendsArray = [
     {
         name: "BMW S 1000RR",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi4z6iQh4jlAhXV7Z4KHXbUDbsQjRx6BAgBEAQ&url=https%3A%2F%2Fmotorrad-1.com%2Fproducts%2Falpha-sbk-2020-bmw-s1000rr-ecu-flash-wsbk-mapping-2020&psig=AOvVaw1ki7xRFBtx0FlCJfaPMpwO&ust=1570465689863976",
+        photo: "https://www.gpone.com/sites/default/files/styles/article_big_breakpoints_theme_bootstrap_screen-lg-min_1x/public/images/2019/article/foto/06/News%20Prodotto/generic/test-bmw-s1000rr-008-1560936497.jpg?itok=H9zFdfGy",
         scores:[
             5,
             5,
@@ -19,7 +19,7 @@ var friendsArray = [
 
     {
         name:"APRILIA TUONO",
-        photo:"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjC6vHzh4jlAhUOs54KHYHQBDIQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.motorcycle.com%2Fmanufacturer%2Faprilia%2F2017-aprilia-tuono-1100-rrfactory-first-ride-review.html&psig=AOvVaw06rxqEjL75t2kgMBuxrA1v&ust=1570466003652871",
+        photo:"https://www.motorcycle.com/blog/wp-content/uploads/2017/05/050217-2017-aprilia-tuono-1100-factory-left-standing.jpg",
         scores:[
             5,
             4,
@@ -36,7 +36,7 @@ var friendsArray = [
 
     {
         name:"DUCATI X DIAVEL",
-        photo:"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjhjYn4iYjlAhUIsJ4KHao_CZEQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.topspeed.com%2Fmotorcycles%2Fmotorcycle-reviews%2Fducati%2F2016-2019-ducati-xdiavel-xdiavel-s-ar170962.html&psig=AOvVaw2CWAcRlyKf25rnfkesqBBy&ust=1570466472210516",
+        photo:"https://pictures.topspeed.com/IMG/jpg/201901/2019-duc-xdiavel_s-2.jpg",
         scores:[
             5,
             3,
@@ -53,7 +53,7 @@ var friendsArray = [
 
     {
         name: "SLIMS S",
-        photo:"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiYqt764YjlAhWkPH0KHShWBNsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DStiYnlIrcRc&psig=AOvVaw1iREH3zTxZVpbtI585etie&ust=1570490176946107",
+        photo:"https://i.ytimg.com/vi/StiYnlIrcRc/maxresdefault.jpg",
         scores:[
             5,
             2,
@@ -70,7 +70,7 @@ var friendsArray = [
 
     {
         name: "HONDA 450L",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiH5Yvp4ojlAhWCvJ4KHaXcDIsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.advpulse.com%2Fadv-bikes%2F2019-honda-crf450l-review%2F&psig=AOvVaw3swXWyspPSxa-f1Af2oCkp&ust=1570490404166426",
+        photo: "https://rxei.iscdn.net/2019/05/1568_img_5382.jpg?dpr=2.63&fit=max&q=40&w=450",
         scores:[
             4,
             3,

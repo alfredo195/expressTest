@@ -20,7 +20,7 @@ module.exports = function(app){
       }
       if(diff < lowestDiff){
         lowestDiff = diff;
-        match = friends;
+        match = friends[i];
       }
     }
     friends.push(friend);
